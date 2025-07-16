@@ -1,7 +1,7 @@
 ﻿using GestioneCorsi.Classes.Interfaces;
 using GestioneCorsi.Classes.Models;
 
-namespace SistemaGestioneCorsi.Services
+namespace GestioneCorsi.Classes.Services
 {
     public class GestioneCorsi : IGestioneCorsi
     {
